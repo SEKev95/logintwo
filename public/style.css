@@ -1,0 +1,14 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: rgb(231, 94, 128);
+}
+img{
+  height: 200px;
+}
+.CashierTitle{
+  text-align: center;  
+}
+ul{
+  list-style: none;
+}
